@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/architects_daughter</item>
+        <item>@font/comic_neue_light</item>
+        <item>@font/roboto_slab_bold</item>
+        <item>@font/roboto_slab_thin</item>
+        <item>@font/schoolbell</item>
+    </array>
+</resources>

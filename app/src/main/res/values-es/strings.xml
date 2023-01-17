@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">minnou</string>
+    <string name="developer">hackingchips.com</string>
+    <string name="less_button">-</string>
+    <string name="more_button">+</string>
+    <string name="start_button">Jugar</string>
+    <string name="reset_button">Reiniciar\nnivel</string>
+    <string name="level_label">Nivel:</string>
+    <string name="level_value">00</string>
+    <string name="time_label">Tiempo: 00:00:00</string>
+    <string name="moves_label">Movimientos: 0000</string>
+    <string name="time_label_text">Tiempo:</string>
+    <string name="moves_label_text">Movimientos:</string>
+    <string name="info_text">   </string>
+    <string name="start_text">Jugar</string>
+    <string name="stop_text">Parar</string>
+</resources>
